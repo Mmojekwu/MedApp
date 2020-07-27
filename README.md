@@ -1,5 +1,5 @@
 # MyPetDoc
-
+Take care of your pets from this mobile app!
 
 
 ## Sample: 
